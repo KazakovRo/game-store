@@ -1,12 +1,12 @@
 import { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
+import PropTypes from 'prop-types'
 
 import { get, ref, child } from 'firebase/database'
 import { database } from '../firebase/initFirebase'
 import { getGamesAction } from '../redux/products/actions'
-import App from '../App'
 
-const InitLayout = () => {
+const InitLayout = ({ children }) => {
   const dispatch = useDispatch()
 
   useEffect(() => {
@@ -32,10 +32,18 @@ const InitLayout = () => {
   return (
     <>
       <header>h</header>
-      <App />
+      {children}
       <footer>f</footer>
     </>
   )
+}
+
+InitLayout.propTypes = {
+  children: PropTypes.node
+}
+
+InitLayout.defaultProps = {
+  children: null
 }
 
 export default InitLayout
