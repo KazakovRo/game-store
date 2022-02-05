@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "name": "Elder Ring",
+      "images": {
+        "banner": "gs://game-store-f1171.appspot.com/elder-ring/banner.webp",
+        "card": "gs://game-store-f1171.appspot.com/elder-ring/card.webp",
+        "card-middle": "gs://game-store-f1171.appspot.com/elder-ring/card-middle.webp"
+      }
+    },
+    {
+      "name": "Elder Ring 2",
+      "images": {
+        "banner": "gs://game-store-f1171.appspot.com/elder-ring/banner.webp",
+        "card": "gs://game-store-f1171.appspot.com/elder-ring/card.webp",
+        "card-middle": "gs://game-store-f1171.appspot.com/elder-ring/card-middle.webp"
+      }
+    },
+    {
+      "name": "Elder Ring 3",
+      "images": {
+        "banner": "gs://game-store-f1171.appspot.com/elder-ring/banner.webp",
+        "card": "gs://game-store-f1171.appspot.com/elder-ring/card.webp",
+        "card-middle": "gs://game-store-f1171.appspot.com/elder-ring/card-middle.webp"
+      }
+    }
+  ]
+}
