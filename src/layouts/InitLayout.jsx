@@ -5,6 +5,7 @@ import PropTypes from 'prop-types'
 import { get, ref, child } from 'firebase/database'
 import { database } from '../firebase/initFirebase'
 import { getGamesAction } from '../redux/products/actions'
+// import ProductList from '../components/ProductList/ProductList'
 
 const InitLayout = ({ children }) => {
   const dispatch = useDispatch()
@@ -16,7 +17,6 @@ const InitLayout = ({ children }) => {
       try {
         const gamesList = await get(child(refDatabase, `games/`))
         if (gamesList.exists()) {
-          console.log(gamesList.val())
           dispatch(getGamesAction(gamesList.val()))
         } else {
           console.log('No data available')
@@ -33,6 +33,7 @@ const InitLayout = ({ children }) => {
     <>
       <header>h</header>
       {children}
+      {/* <ProductList /> */}
       <footer>f</footer>
     </>
   )

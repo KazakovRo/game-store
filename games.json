@@ -1,28 +1,388 @@
 {
   "games": [
     {
+      "id": 1,
       "name": "Elder Ring",
       "images": {
-        "banner": "gs://game-store-f1171.appspot.com/elder-ring/banner.webp",
-        "card": "gs://game-store-f1171.appspot.com/elder-ring/card.webp",
-        "card-middle": "gs://game-store-f1171.appspot.com/elder-ring/card-middle.webp"
-      }
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/elder-ring%2Fbanner.webp?alt=media&token=e772bf64-5edb-4da7-af8f-b8d75cce95e8",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/elder-ring%2Fcard.webp?alt=media&token=22f95040-5687-4070-8e15-af8ea6dbfc90",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/elder-ring%2Fcard-middle.webp?alt=media&token=02afafff-0d51-44b5-ab2a-3fa5083b1673"
+      },
+      "price": "59.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "2/25/2022",
+      "publisher": "BANDAI NAMCO Entertainment America Inc.",
+      "genre": "Role Playing Games",
+      "footerInfo": "ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc.<br> BANDAI NAMCO Entertainment America Inc. Privacy Policy & EULA"
     },
     {
-      "name": "Elder Ring 2",
+      "id": 2,
+      "name": "Forspoken",
       "images": {
-        "banner": "gs://game-store-f1171.appspot.com/elder-ring/banner.webp",
-        "card": "gs://game-store-f1171.appspot.com/elder-ring/card.webp",
-        "card-middle": "gs://game-store-f1171.appspot.com/elder-ring/card-middle.webp"
-      }
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/forspoken%2Fbanner.webp?alt=media&token=104cfb2c-2e97-4962-9d5e-0989d4238474",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/forspoken%2Fcard.webp?alt=media&token=28928d75-e2b9-46b3-b5fb-faf963a8b74e",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/forspoken%2Fcard-middle.webp?alt=media&token=654f5276-b24c-4828-acb0-020ef82045c3"
+      },
+      "price": "69.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "5/24/2022",
+      "publisher": "SQUARE ENIX CO. LTD.",
+      "genre": "Action, Role Playing Games",
+      "footerInfo": "SQUARE ENIX CO. LTD. Privacy Policy & EULA"
     },
     {
-      "name": "Elder Ring 3",
+      "id": 3,
+      "name": "Ghostwire: Tokyo",
       "images": {
-        "banner": "gs://game-store-f1171.appspot.com/elder-ring/banner.webp",
-        "card": "gs://game-store-f1171.appspot.com/elder-ring/card.webp",
-        "card-middle": "gs://game-store-f1171.appspot.com/elder-ring/card-middle.webp"
-      }
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/ghostwire-tokyo%2Fbanner.webp?alt=media&token=bf5c128d-1b0d-4247-996e-d3ed4481465f",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/ghostwire-tokyo%2Fcard.webp?alt=media&token=a16b6db5-2999-4c3e-b976-6f6994dba8c0",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/ghostwire-tokyo%2Fcard-middle.webp?alt=media&token=162b31f6-c31f-496e-a0cb-eba0a106357c"
+      },
+      "price": "53.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "3/25/2022",
+      "publisher": "Bethesda Softworks",
+      "genre": "Action, Adventure",
+      "footerInfo": "© 2022 Bethesda Softworks LLC, a ZeniMax Media company. Ghostwire, Tango, Tango Gameworks, Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. All Rights Reserved."
+    },
+    {
+      "id": 4,
+      "name": "Crusader Kings III",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/crusader-kings-3%2Fbanner.webp?alt=media&token=80720e45-7d17-47e2-827d-5cf9c0d6a45b",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/crusader-kings-3%2Fcard.jpg?alt=media&token=fdf2794f-2a2e-4de4-8aa8-582509216299",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/crusader-kings-3%2Fcard-middle.webp?alt=media&token=b631e03d-225f-4cf6-80b0-894562edb39f"
+      },
+      "price": "49.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "3/29/2022",
+      "publisher": "Paradox Interactive",
+      "genre": "Strategy, Simulation",
+      "footerInfo": "©2022 Paradox Interactive AB. Paradox Interactive AB, CRUSADER KINGS and PARADOX INTERACTIVE are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S., and other countries. Developed by Paradox Development Studios. PlayStation®5 edition adapted by Lab42. Lab42 and the Lab42 logo are trademarks of Sumo Digital Ltd. All other trademarks, logos, and copyrights are the property of their respective owners. All rights reserved."
+    },
+    {
+      "id": 5,
+      "name": "WWE 2K22 Cross-Gen Digital Bundle for PS4™ and PS5™",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/wwe-2k22-cross-gen-digital-bundle%2Fbanner.jpg?alt=media&token=0d25359a-01ff-4059-a89b-10365ff0c5c8",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/wwe-2k22-cross-gen-digital-bundle%2Fcard.webp?alt=media&token=bc31e038-aee6-4bab-aa99-2fe594255e8a",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/wwe-2k22-cross-gen-digital-bundle%2Fcard-middle.webp?alt=media&token=8c593136-1d75-4ea9-a1c3-dd0d01b393c2"
+      },
+      "price": "79.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "3/11/2022",
+      "publisher": "2K",
+      "genre": "Sport",
+      "footerInfo": "© 2005-2022 Take-Two Interactive Software, Inc. and its subsidiaries. 2K, the 2K logo, and Take-Two Interactive Software are all trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. All WWE programming, talent names, images, likenesses, slogans, wrestling moves, trademarks, logos and copyrights are the exclusive property of WWE and its subsidiaries. All other trademarks, logos and copyrights are the property of their respective owners. Andre the Giant™ licensed by CMG Brands, LLC. Macho Man Randy Savage TM licensed by CMG Brands, LLC. © 2022 WWE. All Rights Reserved. 2K Privacy Policy & EULA"
+    },
+    {
+      "id": 6,
+      "name": "Horizon Forbidden West™",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/horizon-forbidden-west%2Fbanner.webp?alt=media&token=6ee2aa5b-2774-406a-bcd4-591f889d6a77",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/horizon-forbidden-west%2Fcard.webp?alt=media&token=e703bd7c-99cb-420f-97d6-dda0e40e1a58",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/horizon-forbidden-west%2Fcard-middle.webp?alt=media&token=f84a5279-d47b-415e-9710-2b49d340f4d9"
+      },
+      "price": "59.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "2/18/2022",
+      "publisher": "Sony Interactive Entertainment",
+      "genre": "Action",
+      "footerInfo": "©2022 Sony Interactive Entertainment Europe. Developed by Guerrilla. Horizon Forbidden West is a trademark of Sony Interactive Entertainment LLC. Sony Interactive Entertainment Privacy Policy & EULA"
+    },
+    {
+      "id": 7,
+      "name": "Sifu",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sifu%2Fbanner.webp?alt=media&token=b8c651b5-a9bd-420a-87d0-b425120c8ed6",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sifu%2Fcard.webp?alt=media&token=867af998-acf0-4d70-aba0-d917f6ae42de",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sifu%2Fcard-middle.webp?alt=media&token=b97a1b7d-5d29-4c02-a131-fa59b7d9e89e"
+      },
+      "price": "39.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "2/6/2022",
+      "publisher": "SLOCLAP S.A.S",
+      "genre": "Action",
+      "footerInfo": "Sifu ©2022 Sloclap SAS. 'Sifu', 'Sloclap' and the Sloclap logo are all trademarks of Sloclap SAS. Developed and published by Sloclap SAS, a member of the Kepler Interactive group. All rights reserved. by Sloclap SAS, a member of the Kepler Interactive group. All rights reserved. SLOCLAP S.A.S Privacy Policy & EULA"
+    },
+    {
+      "id": 8,
+      "name": "Dying Light 2 Stay Human – Deluxe Edition PS4&PS5",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dying-light-2-stay-human-deluxe-edition%2Fbanner.webp?alt=media&token=0b887f70-1bf8-4bb6-bff4-ecf29c2391d5",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dying-light-2-stay-human-deluxe-edition%2Fcard.webp?alt=media&token=02f613d6-520c-4864-ba3f-35583b4362ef",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dying-light-2-stay-human-deluxe-edition%2Fcard-middle.webp?alt=media&token=20ec5376-ff6e-4011-9507-cd6da750c388"
+      },
+      "price": "79.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "2/4/2022",
+      "publisher": "TECHLAND PUBLISHING",
+      "genre": "Unique",
+      "footerInfo": "Dying Light 2 © Techland S.A. Published and developed by Techland S.A. All other trademarks, copyrights and logos are property of their respective owners. All rights reserved."
+    },
+    {
+      "id": 9,
+      "name": "UNCHARTED: Legacy of Thieves Collection",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/uncharted-legacy-of-thieves-collection%2Fbanner.jpg?alt=media&token=ff212499-78b2-485f-bd1c-0598fb5f905b",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/uncharted-legacy-of-thieves-collection%2Fcard.webp?alt=media&token=1855d2e9-e178-4ced-9246-3adc95719799",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/uncharted-legacy-of-thieves-collection%2Fcard-middle.webp?alt=media&token=efb31e29-7b7a-420f-ba95-91d68f502d8f"
+      },
+      "price": "49.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "1/28/2022",
+      "publisher": "Sony Interactive Entertainment",
+      "genre": "Action, Adventure",
+      "footerInfo": "©2021 Sony Interactive Entertainment LLC. Created and developed by Naughty Dog LLC. UNCHARTED is a registered trademark of Sony Interactive Entertainment LLC and related companies in the U.S. and other countries. Sony Interactive Entertainment Privacy Policy & EULA"
+    },
+    {
+      "id": 10,
+      "name": "Tom Clancy’s Rainbow Six® Extraction",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/tom-clancys-rainbow-six-extraction%2Fbanner.webp?alt=media&token=9ca6d1d6-7d56-4837-8be8-673a4f2afac8",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/tom-clancys-rainbow-six-extraction%2Fcard.webp?alt=media&token=b5cf5d37-7a19-45f1-b11a-8747510ec676",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/tom-clancys-rainbow-six-extraction%2Fcard-middle.webp?alt=media&token=dc29721a-e1df-4b5c-811d-ed78609811e3"
+      },
+      "price": "Free",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "1/27/2022",
+      "publisher": "Ubisoft Entertainment",
+      "genre": "Unique",
+      "footerInfo": "Ubisoft Entertainment Privacy Policy & EULA"
+    },
+    {
+      "id": 11,
+      "name": "The Longest Road on Earth",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/the-longest-road-on-earth%2Fbanner.webp?alt=media&token=4befdd81-e9ed-486f-9022-36c19b33fa26",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/the-longest-road-on-earth%2Fcard.jpg?alt=media&token=c41db903-0b13-4fe8-9d9c-fbf877bfad18",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/the-longest-road-on-earth%2Fcard-middle.jpg?alt=media&token=e8687556-3825-4cec-8ed8-669abeef8c82"
+      },
+      "price": "9.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "1/27/2022",
+      "publisher": "RAW FURY",
+      "genre": "Casual, Music/Rhythm, Unique",
+      "footerInfo": "RAW FURY Privacy Policy & EULA"
+    },
+    {
+      "id": 12,
+      "name": "Paper Dolls 2",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/paper-dolls-2%2Fbanner.webp?alt=media&token=fff0303d-2b8e-4c07-8f65-f55e99a67530",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/paper-dolls-2%2Fcard.webp?alt=media&token=bbf9d068-3c54-4528-95e0-0a26ce3bf11b",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/paper-dolls-2%2Fcard-middle.webp?alt=media&token=0e92d266-521e-48e8-8aaa-a34615b9b1e4"
+      },
+      "price": "19.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "1/25/2022",
+      "publisher": "WINKING SKYWALKER ENTERTAINMENT LIMITED",
+      "genre": "Horror, Adventure, Puzzle",
+      "footerInfo": "Copyright © 2021 WINKING Corporation. All Rights Reserved. WINKING SKYWALKER ENTERTAINMENT LIMITED Privacy Policy & EULA"
+    },
+    {
+      "id": 13,
+      "name": "HITMAN Trilogy",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/hitman-trilogy%2Fbanner.webp?alt=media&token=d211f707-e7a3-44fc-8061-f55db950e880",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/hitman-trilogy%2Fcard.webp?alt=media&token=58ffc74f-54f1-4e31-a9e9-c1ad1f418270",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/hitman-trilogy%2Fcard-middle.webp?alt=media&token=7b70ac03-1794-47d5-98c5-cc5076d2d68d"
+      },
+      "price": "99.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "1/20/2022",
+      "publisher": "IO Interactive A/S",
+      "genre": "Action",
+      "footerInfo": "HITMAN 3 © 2020 IO Interactive A/S. IO Interactive, IOI logos, HITMAN, HITMAN logos, and WORLD OF ASSASSINATION are trademarks or registered trademarks owned by or exclusively licensed to IO Interactive A/S. All other trademarks are the property of their respective owners. All rights reserved."
+    },
+    {
+      "id": 14,
+      "name": "Blackwind",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/blackwind%2Fbanner.webp?alt=media&token=f3c0963e-b6ee-49c9-a982-a8966a64f23a",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/blackwind%2Fcard.webp?alt=media&token=8c12c7f5-fde1-407c-95bd-f5f3c8edcbdd",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/blackwind%2Fcard-middle.webp?alt=media&token=b93f437f-f33f-4ef1-8fbb-8900d99b7adf"
+      },
+      "price": "24.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "1/20/2022",
+      "publisher": "Blowfish Studios Pty Ltd",
+      "genre": "Unique",
+      "footerInfo": "Copyright © 2021 Drakkar Societa' Cooperativa"
+    },
+    {
+      "id": 15,
+      "name": "DYSMANTLE",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dysmantle%2Fbanner.webp?alt=media&token=f631fe94-3f45-4c56-8b70-1f6cb32f144b",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dysmantle%2Fcard.webp?alt=media&token=5c62409e-ed88-42db-8e2e-059bc17ca87d",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dysmantle%2Fcard-middle.webp?alt=media&token=63bb7a96-44b4-4d32-9fc6-7684fac5cb26"
+      },
+      "price": "19.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "1/19/2022",
+      "publisher": "10tons Ltd.",
+      "genre": "Action, Adventure",
+      "footerInfo": "Copyright © 2021 10tons Ltd. 10tons Ltd. Privacy Policy & EULA"
+    },
+    {
+      "id": 16,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/yu-gi-oh-master-duel%2Fbanner.webp?alt=media&token=db686757-bbd1-4997-b672-ca2b9a544abd",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/yu-gi-oh-master-duel%2Fcard.webp?alt=media&token=44770025-e967-43bf-8c4d-99999979211b",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/yu-gi-oh-master-duel%2Fcard-middle.webp?alt=media&token=0117980c-b1e5-4fd0-99f1-88032e7035d8"
+      },
+      "price": "Free",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "1/19/2022",
+      "publisher": "Konami Digital Entertainment, Inc.",
+      "genre": "Family, Strategy",
+      "footerInfo": "©2020 Studio Dice/SHUEISHA,TV TOKYO,KONAMI ©2022 Konami Digital Entertainment Konami Digital Entertainment, Inc. Privacy Policy & EULA"
+    },
+    {
+      "id": 17,
+      "name": "Tom Clancy’s The Division® Franchise Bundle",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/tom-clancys-the-division-franchise-bundle%2Fbanner.webp?alt=media&token=3fb79b7a-c5c3-46aa-8a4e-a1ca07767de8",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/tom-clancys-the-division-franchise-bundle%2Fcard.webp?alt=media&token=52aab657-6272-4f30-96c2-1451d25350fe",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/tom-clancys-the-division-franchise-bundle%2Fcard-middle.webp?alt=media&token=258ebbd0-ceca-427b-a4b4-c411fecdd8f7"
+      },
+      "price": "54.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4",
+      "release": "3/26/2019",
+      "publisher": "Ubisoft Entertainment",
+      "genre": "Action, Shooter",
+      "footerInfo": "© 2016–2019 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, The Division logo, the Soldier Icon, Ubisoft, and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries. Ubisoft Entertainment Privacy Policy & EULA"
+    },
+    {
+      "id": 18,
+      "name": "Phoenix Point",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/phoenix-point%2Fbanner.jpg?alt=media&token=a1d04456-978d-47ce-b698-84f7dae625ec",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/phoenix-point%2Fcard.webp?alt=media&token=0bb387a8-9d8c-4d28-84df-e247c9446d8a",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/phoenix-point%2Fcard-middle.webp?alt=media&token=5681e761-4405-4892-8988-7521ac567ddb"
+      },
+      "price": "39.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "12/9/2021",
+      "publisher": "SNAPSHOT GAMES",
+      "genre": "Strategy",
+      "footerInfo": "Phoenix Point ©2022 Snapshot Games. Phoenix Point and associated characters and properties are copyright 2019-2022. All rights reserved. Published 2022 by Koch Media GmbH, Gewerbegebiet 1, 6604 Höfen, Austria. Prime Matter is a division of Koch Media. Prime Matter and their respective logos are trademarks of Koch Media GmbH. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved."
+    },
+    {
+      "id": 19,
+      "name": "SushiRun - Avatar Full Game Bundle",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sushirun-avatar-full-game-bundle%2Fbanner.webp?alt=media&token=c87ad7b9-c8d9-4b11-b603-722bbd274304",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sushirun-avatar-full-game-bundle%2Fcard.webp?alt=media&token=8303a19e-be9b-41ad-86fe-29efb7ba6340",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sushirun-avatar-full-game-bundle%2Fcard-middle.webp?alt=media&token=e0f5a84e-ed3a-4550-99d7-a5b104da6664"
+      },
+      "price": "6.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "12/10/2021",
+      "publisher": "Smobile",
+      "genre": "Arcade, Casual",
+      "footerInfo": "Smobile Privacy Policy & EULA"
+    },
+    {
+      "id": 20,
+      "name": "Demon's Souls",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/demons-souls%2Fbanner.webp?alt=media&token=152658e6-9aa8-4fa6-b7c2-3553edd3c606",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/demons-souls%2Fcard.webp?alt=media&token=142f8a9c-7b75-46a8-8b6e-3b61be7f00b2",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/demons-souls%2Fcard-middle.webp?alt=media&token=5e692c66-d46b-47c7-8ba5-3fb372fde0fe"
+      },
+      "price": "69.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "11/12/2020",
+      "publisher": "Sony Interactive Entertainment",
+      "genre": "Action",
+      "footerInfo": "©2009, 2020 Sony Interactive Entertainment Inc. Demon’s Souls is a trademark of Sony Interactive Entertainment Inc. Sony Interactive Entertainment Privacy Policy & EULA"
+    },
+    {
+      "id": 21,
+      "name": "White Shadows",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/white-shadows%2Fbanner.webp?alt=media&token=fccc1325-e68b-4e72-a1bd-655377c14478",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/white-shadows%2Fcard.webp?alt=media&token=4909eda7-9a6f-4bfc-a084-9576eaceb079",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/white-shadows%2Fcard-middle.webp?alt=media&token=81797657-4106-435e-9bb3-5a1dea79888e"
+      },
+      "price": "19.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "12/7/2021",
+      "publisher": "Headup Games GmbH & Co. KG",
+      "genre": "Action, Puzzle",
+      "footerInfo": "© 2021 Monokel © 2021 Headup GmbH, all rights reserved. © 2021 Thunderful Publishing AB © 2021 Mixtvision Headup Games GmbH & Co. KG Privacy Policy & EULA"
+    },
+    {
+      "id": 22,
+      "name": "Dauntless",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dauntless%2Fbanner.webp?alt=media&token=281e4f13-d40b-44af-9c46-3c6e1f848737",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dauntless%2Fcard.webp?alt=media&token=bcf80894-5090-496b-bfdd-6cbd8ea7ba43",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/dauntless%2Fcard-middle.webp?alt=media&token=b7c11ad0-a0ac-4d8f-bd1f-ddacdcaa3158"
+      },
+      "price": "Free",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "12/2/2021",
+      "publisher": "Epic Games",
+      "genre": "Action, Adventure, Role Playing Games",
+      "footerInfo": "Copyright © 2015-2019 Phoenix Labs, Inc. All rights reserved. Phoenix Labs, Dauntless, and Phoenix Lab's other marks and logos are trademarks of Phoenix Labs, Inc. All other trademarks and trade names are properties of their respective owners. Epic Games is a registered trademark of Epic Games, Inc. in the United States and elsewhere. Epic Games Privacy Policy & EULA"
+    },
+    {
+      "id": 23,
+      "name": "Evil Genius 2: World Domination PS4 & PS5",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/evil-genius-2-world-domination%2Fbanner.webp?alt=media&token=c8fdd002-1579-4fe9-a4f3-4dcdb774c10b",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/evil-genius-2-world-domination%2Fcard.webp?alt=media&token=ae1fcad5-05c5-4952-a968-2be003637f30",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/evil-genius-2-world-domination%2Fcard-middle.webp?alt=media&token=2918d45f-dca4-4cb0-9b04-1c574b83f367"
+      },
+      "price": "39.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS4, PS5",
+      "release": "11/30/2021",
+      "publisher": "Rebellion",
+      "genre": "Strategy",
+      "footerInfo": "Rebellion Privacy Policy & EULA"
+    },
+    {
+      "id": 24,
+      "name": "Sherlock Holmes Chapter One",
+      "images": {
+        "banner": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sherlock-holmes-chapter-one%2Fbanner.webp?alt=media&token=edba031d-5f82-4512-80f7-738b5533a6f5",
+        "card": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sherlock-holmes-chapter-one%2Fcard.webp?alt=media&token=2c88c78e-8cc1-4802-93eb-3ca5e90ef532",
+        "card-middle": "https://firebasestorage.googleapis.com/v0/b/game-store-f1171.appspot.com/o/sherlock-holmes-chapter-one%2Fcard-middle.webp?alt=media&token=0acdcd3a-6067-4342-b7a4-49be3de4ccc9"
+      },
+      "price": "44.99",
+      "description": "Pre-order now and get the following content as a bonus:",
+      "platform": "PS5",
+      "release": "11/16/2021",
+      "publisher": "FROGWARES IRELAND LTD",
+      "genre": "Action, Adventure",
+      "footerInfo": "FROGWARES IRELAND LTD Privacy Policy & EULA"
     }
   ]
 }
